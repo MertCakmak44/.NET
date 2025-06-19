@@ -1,0 +1,12 @@
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\bin\Debug\net8.0\MyApp.Service.deps.json
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\bin\Debug\net8.0\MyApp.Service.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\bin\Debug\net8.0\MyApp.Service.pdb
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.csproj.AssemblyReference.cache
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.AssemblyInfoInputs.cache
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.AssemblyInfo.cs
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\refint\MyApp.Service.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\MyApp.Service.pdb
+C:\Users\Emrah\source\repos\SqlToFile\MyApp.Service\obj\Debug\net8.0\ref\MyApp.Service.dll
