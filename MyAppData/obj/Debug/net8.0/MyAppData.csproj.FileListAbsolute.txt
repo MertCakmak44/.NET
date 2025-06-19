@@ -1,0 +1,15 @@
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\bin\Debug\net8.0\MyAppData.deps.json
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\bin\Debug\net8.0\MyAppData.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\bin\Debug\net8.0\MyAppData.pdb
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\bin\Debug\net8.0\MyAppCore.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\bin\Debug\net8.0\MyAppCore.pdb
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.csproj.AssemblyReference.cache
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfoInputs.cache
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.AssemblyInfo.cs
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.csproj.CoreCompileInputs.cache
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.csproj.Up2Date
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\refint\MyAppData.dll
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\MyAppData.pdb
+C:\Users\Emrah\source\repos\SqlToFile\MyAppData\obj\Debug\net8.0\ref\MyAppData.dll
